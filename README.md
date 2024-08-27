@@ -1,6 +1,6 @@
-# Página Web Interactiva para Tienda de Alimentos
+# BENNY'S BURGUER
 
-Este repositorio contiene el código fuente de una página web diseñada para una tienda de alimentos. El sitio utiliza tecnologías modernas como **Swiper.js** para sliders interactivos, y está optimizado para una experiencia de usuario fluida y responsiva.
+Este repositorio contiene el código fuente de una página web diseñada para una una hamburguesería llamada: Benny's Burguer. El sitio utiliza tecnologías modernas como **Swiper.js** para sliders interactivos, y está optimizado para una experiencia de usuario fluida y responsiva.
 
 ## Características
 
